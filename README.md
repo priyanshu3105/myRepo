@@ -1,2 +1,2 @@
 # myRepo
-testRepo
+testRepo for GIT commands demonstration
